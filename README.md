@@ -13,3 +13,4 @@
 - `SPC-SPC` - emacs commands
 - `SPC-SPC-shell`
 - `SPC-1` - move to window 1
+- `alt+enter` - clojure related functions
