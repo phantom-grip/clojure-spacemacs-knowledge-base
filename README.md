@@ -12,3 +12,4 @@
 - `SPC-b-h` - go to home
 - `SPC-SPC` - emacs commands
 - `SPC-SPC-shell`
+- `SPC-1` - move to window 1
