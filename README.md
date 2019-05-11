@@ -7,3 +7,4 @@
 ## Commands
 - `SPC-b-h` - go to home
 - `SPC-SPC` - emacs commands
+- `SPC-SPC-shell`
