@@ -14,7 +14,6 @@
 - `SPC-SPC` - emacs commands
 - `SPC-SPC-shell`
 - `SPC-1` - move to window 1
-- `alt+enter` - clojure related functions
 
 ## Saving
 
@@ -26,6 +25,11 @@
 
 - `SPC+f+e+d` - to open configuration
 - `SPC+h+l`- list of availible layers
+
+## Clojure
+
+- `alt+enter` - clojure related functions
+- `SPC+h+SPC -> clojure` - open clojure layer documentation
 
 ## To start with clojure
 
