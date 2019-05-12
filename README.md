@@ -18,6 +18,7 @@
 ## Settings
 
 - `SPC+f+e+d` - to open configuration
+- `SPC+h+l`- list of availible layers
 
 ## To start with clojure
 
