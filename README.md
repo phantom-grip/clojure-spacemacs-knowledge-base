@@ -15,6 +15,12 @@
 - `SPC-1` - move to window 1
 - `alt+enter` - clojure related functions
 
+## Saving
+
+- `:w`
+- `SPC+f+s` - save current buffer
+- `SPC+f+S` - save all open buffers
+
 ## Settings
 
 - `SPC+f+e+d` - to open configuration
