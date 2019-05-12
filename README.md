@@ -15,6 +15,10 @@
 - `SPC-1` - move to window 1
 - `alt+enter` - clojure related functions
 
+## Settings
+
+- `SPC+f+e+d` - to open configuration
+
 ## To start with clojure
 
 1. You should have clojure layer installed
