@@ -14,3 +14,10 @@
 - `SPC-SPC-shell`
 - `SPC-1` - move to window 1
 - `alt+enter` - clojure related functions
+
+## To start with clojure
+
+1. You should have clojure layer installed
+2. Go to clojure file
+3. Turn on cider (`alt+enter+'`)
+4. Evaluate code (`alt+enter+e+b` or `alt+enter+e+e`)
