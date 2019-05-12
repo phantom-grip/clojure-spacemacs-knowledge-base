@@ -3,18 +3,28 @@
 ## Getting started
 - [Spacemacs - From First Install to Clojure programming without manual configuration](https://www.youtube.com/watch?v=Uuwg-069NYE)
 - [Installing and getting started with Spacemacs: Emacs tutorial](https://www.youtube.com/watch?v=hCNOB5jjtmc)
+- [Spacemacs For Noobs](https://www.youtube.com/watch?v=VBYsa3Kpkz8)
 - `SPC+h+SPC` - tutorials for getting started
 
 ## Cheetsheets
 
 - [#1](https://gist.github.com/robphoenix/9e4db767ab5c912fb558)
 
-## Commands
+## General commands
 - `SPC-b-h` - go to home
 - `SPC-SPC` - emacs commands
-- `SPC-SPC-shell`
+- `SPC-SPC-shell` - open shell
+
+## Windows
+
 - `SPC-1`, `SPC-2` - move to window 1/2
+- `SPC+w+d` - delete window
+- `SPC+w+v` - split vertically
+
+## Browsing
+
 - `SPC+f+t` - open file tree
+- `SPC+b+b` - list of open buffers
 
 ## Saving
 
