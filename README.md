@@ -13,7 +13,8 @@
 - `SPC-b-h` - go to home
 - `SPC-SPC` - emacs commands
 - `SPC-SPC-shell`
-- `SPC-1` - move to window 1
+- `SPC-1`, `SPC-2` - move to window 1/2
+- `SPC+f+t` - open file tree
 
 ## Saving
 
