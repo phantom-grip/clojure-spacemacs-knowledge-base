@@ -48,3 +48,10 @@
 2. Go to clojure file
 3. Turn on cider (`alt+enter+'`)
 4. Evaluate code (`alt+enter+e+b` or `alt+enter+e+e`)
+
+## Working with clojure/clojurescript projects
+1. `alt+enter+'` or `alt+enter+"` - connect to Cider (nothing will work without it) 
+2. `SPC+p+t` - open tree view
+3. `SPC+p+f` - navigate & search project files
+4. `alt+enter+g+g` or `alt+enter+g+G` - go to definitions (another files)
+5. `/word_your_are_searching` + `n/N` - search in this file
