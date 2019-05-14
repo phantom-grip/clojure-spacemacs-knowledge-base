@@ -56,3 +56,11 @@
 3. `SPC+p+f` - navigate & search project files
 4. `alt+enter+g+g` or `alt+enter+g+G` - go to definitions (another files)
 5. `/word_your_are_searching` + `n/N` - search in this file
+
+## List of thing you should be able to do to be productive
+
+1. Add new text
+2. Copy/paste/delete
+3. Rename folders/files/namespaces/variables
+4. Add folders/files/libraries/imports
+5. Search (and replace) through project/folder/file
