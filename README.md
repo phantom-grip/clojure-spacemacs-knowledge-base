@@ -64,3 +64,10 @@
 3. Rename folders/files/namespaces/variables
 4. Add folders/files/libraries/imports
 5. Search (and replace) through project/folder/file
+
+## .gitignore for autosave files
+```
+\#*\#
+.\#*
+```
+
