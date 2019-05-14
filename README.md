@@ -9,6 +9,7 @@
 ## Cheetsheets
 
 - [#1](https://gist.github.com/robphoenix/9e4db767ab5c912fb558)
+- [vim cheetsheet](https://vim.rtorr.com/)
 
 ## General commands
 - `SPC-b-h` - go to home
