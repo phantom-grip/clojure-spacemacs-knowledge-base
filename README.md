@@ -40,7 +40,7 @@
 
 ## Clojure
 
-- `alt+enter` - clojure related functions
+- `alt+enter` or `,` - clojure related functions
 - `SPC+h+SPC -> clojure` - open clojure layer documentation
 
 ## To start with clojure
