@@ -71,3 +71,7 @@
 .\#*
 ```
 
+## Videos
+
+1. [Refactoring clojure code with clj-refactor](https://www.youtube.com/watch?v=5PHWV-z_jTw)
+
