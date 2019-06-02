@@ -50,6 +50,11 @@
 3. Turn on cider (`alt+enter+'`)
 4. Evaluate code (`alt+enter+e+b` or `alt+enter+e+e`)
 
+## Searching
+
+1. `SPC s a p` - search in project
+2. `SPC r s` - resume last search
+
 ## Working with clojure/clojurescript projects
 1. `alt+enter+'` or `alt+enter+"` - connect to Cider (nothing will work without it) 
 2. `SPC+p+t` - open tree view
