@@ -55,6 +55,10 @@
 1. `SPC s a p` - search in project
 2. `SPC r s` - resume last search
 
+## Deleting
+
+1. `c t [bracket-type]` - delete until corresponding bracket
+
 ## Working with clojure/clojurescript projects
 1. `alt+enter+'` or `alt+enter+"` - connect to Cider (nothing will work without it) 
 2. `SPC+p+t` - open tree view
