@@ -54,6 +54,7 @@
 
 1. `SPC s a p` - search in project
 2. `SPC r s` - resume last search
+3. `:%s/yanis/urbis/gc` - replace `yanis` with `urbis`
 
 ## Deleting
 
